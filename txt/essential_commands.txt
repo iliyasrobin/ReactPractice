@@ -1,0 +1,8 @@
+React Run:
+npm run dev /
+npx vite
+
+React Build:
+npm run build /
+npx vite build
+
