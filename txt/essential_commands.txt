@@ -6,3 +6,6 @@ React Build:
 npm run build /
 npx vite build
 
+Snipped:
+CTRL + SHIFT + P
+> take code snippest
